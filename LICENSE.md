@@ -1,4 +1,4 @@
-# 
+# Avanzado VisionLens instalador. Descarga e instala con sin dependencias y soporte para Docker — rápido, seguro y fácil de usar.
 
 
 
